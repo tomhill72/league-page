@@ -1,5 +1,5 @@
 /*   STEP 1   */
-export const leagueID = "992195132256231424"; // your league ID
+export const leagueID = "1124828696750854144"; // your league ID
 export const leagueName = "Cheezy Poofs Fantasy League"; // your league name
 export const dues = 100; // (optional) used in template constitution page
 export const dynasty = false; // true for dynasty leagues, false for redraft and keeper
